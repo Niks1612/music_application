@@ -2,7 +2,7 @@
 This Python-based desktop music player uses Tkinter for the GUI and pygame for audio playback, enabling users to manage and play MP3 files with features like volume control and playlist management.
 
 # Features
-Play/Pause/Stop: Basic controls to manage music playback.
+Play/Pause/Stop: Basic controls to manage music playback.<br>
 Rewind: Quickly rewind to the start of the track.
 Mute: Option to mute the audio.
 Volume Control: Adjust the volume with an intuitive slider.
